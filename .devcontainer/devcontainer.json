@@ -13,7 +13,10 @@
             "extensions": [
                 "MS-CEINTL.vscode-language-pack-ja",
                 "ms-python.autopep8",
-                "ms-toolsai.jupyter"
+                "ms-python.python",
+                "ms-toolsai.jupyter",
+                "janisdd.vscode-edit-csv",
+                "ms-azuretools.vscode-docker"
             ]
         }
     }
